@@ -2,11 +2,11 @@
 
 # Anti Shill List
 
-This list is a mirror from the official list of paid OnlyF*ns and othet degeneracy peddling accounts on Twitter. This list is comprehensive but not complete, and additions are welcome.
+This list is an unofficial mirror of the official list of paid OnlyF*ns and other degeneracy peddling accounts on Twitter. This list is comprehensive but not complete, and additions through forks and other methods are welcome.
 
 ## Purpose
 
-Stop the peddling of smut to minors, who are considerably a large section of the site formerly known as Twitter's userbase (Around 80 million according to Statista in 2022)
+Stop the peddling of smut to minors, who are considerably a large section of the site formerly known as Twitter's userbase (Around 80 million according to Statista in 2022).
 
 ## Link
 
