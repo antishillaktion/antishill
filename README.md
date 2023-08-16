@@ -2,7 +2,7 @@
 
 # Anti Shill List
 
-This list is an unofficial mirror of the official list of paid OnlyF*ns and other degeneracy peddling accounts on Twitter. This list is comprehensive but not complete, and additions through forks and other methods are welcome.
+This list is an unofficial mirror of the [official list](https://twitter.com/NEETOCRACY/status/1691647936416129421?s=20) of paid OnlyF*ns and other degeneracy peddling accounts on Twitter. This list is comprehensive but not complete, and additions through forks and other methods are welcome.
 
 ## Purpose
 
