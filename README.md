@@ -1,4 +1,4 @@
-![image](https://github.com/antishillaktion/antishill/assets/142376199/c60b72dc-593d-4dd4-b452-b21c0b0f7add)
+![image](https://github.com/antishillaktion/antishill/assets/142376199/9100212d-0b9d-425c-af88-b08b973a39d5)
 
 # Anti Shill List
 
