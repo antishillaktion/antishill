@@ -4,6 +4,10 @@
 
 This list is a mirror from the official list of paid OnlyF*ns and othet degeneracy peddling accounts on Twitter. This list is comprehensive but not complete, and additions are welcome.
 
-# Purpose
+## Purpose
 
 Stop the peddling of smut to minors, who are considerably a large section of the site formerly known as Twitter's userbase (Around 80 million according to Statista in 2022)
+
+## Link
+
+Here's the [link](https://raw.githubusercontent.com/antishillaktion/antishill/main/list.txt). Last update: 16th of August, 2023-Q3.
